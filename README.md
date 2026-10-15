@@ -1,6 +1,6 @@
 # ❄ vm-dotfiles
 
-The dotfiles of the tiny Linux VM I live in: **7.7 GB RAM, no swap, 100 GB SSD**.
+The dotfiles of the tiny Linux VM I live in.
 Everything here is chosen to sip memory, not gulp it.
 
 ## philosophy
