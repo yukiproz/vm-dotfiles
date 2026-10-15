@@ -1,22 +1,22 @@
 # ❄ vm-dotfiles
 
-bekal dari sebuah mesin kecil.
+provisions from a small machine.
 
-yang dibawa hanya yang ringan: Bun diutamakan, Python untuk yang tak
-tergantikan, Rust untuk yang telah terbukti layak.
+only the light is carried: Bun first, Python for the irreplaceable,
+Rust for what has proven worthy.
 
-mesin tanpa swap tidak memaafkan keserakahan. hormati kotaknya.
+a machine with no swap forgives no greed. respect the box.
 
-## isi
+## inside
 
-- `.profile` / `.zshenv` — PATH seperlunya (cargo, bun)
-- `setup.sh` — menata mesin kecil baru dengan caraku
+- `.profile` / `.zshenv` — only the necessary PATH (cargo, bun)
+- `setup.sh` — arrange a new small machine my way
 
-## pakai
+## use
 
 ```sh
 git clone https://github.com/yukiproz/vm-dotfiles.git ~/dotfiles
 cd ~/dotfiles && ./setup.sh
 ```
 
-*❄ salju tidak pernah menjelaskan dirinya.*
+*❄ snow never explains itself.*
